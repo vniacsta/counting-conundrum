@@ -2,4 +2,4 @@
 
 Phaser.JS game
 
-Credits to Codeacademy.com
+Credits to Codecademy.com
